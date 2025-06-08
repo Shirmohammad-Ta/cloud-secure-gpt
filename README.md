@@ -2,13 +2,13 @@
 A hybrid system using RoBERTa and GPT for analyzing cloud computing threats and recommending mitigation techniques.
 
 
-# 🔐 Cloud Threat Mitigation with LLMs (GPT + RoBERTa)
+# Cloud Threat Mitigation with LLMs (GPT + RoBERTa)
 
 This repository accompanies the paper **"Enhancing Cloud Security using LLMs: A Hybrid Analysis of Challenges and AI-Powered Mitigation"**, which explores a novel approach to understanding and mitigating cloud security threats using traditional classification methods and large language models.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The project consists of two main components:
 
@@ -20,38 +20,38 @@ The project consists of two main components:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```bash
 cloud-secure-gpt/
 │
-├── data/                        # 📊 Datasets
+├── data/                        #  Datasets
 │   ├── cloud_security_challenges.csv
 │   ├── cloud_security_techniques.csv
 │   ├── threat_to_technique_dataset.csv
 │   └── threat_to_technique_dataset.jsonl
 │
-├── notebooks/                  # 🧠 Jupyter notebooks
+├── notebooks/                  #  Jupyter notebooks
 │   ├── roberta_training.ipynb
 │   └── gpt_prompt_test.ipynb
 │
-├── results/                    # 📈 Output charts and tables
+├── results/                    #  Output charts and tables
 │   ├── results_roberta_accuracy.png
 │   ├── results_gpt_match_summary.png
 │   └── results_gpt_vs_real.csv
 │
-├── models/                     # ⚙️ Python scripts for training and evaluation
+├── models/                     #  Python scripts for training and evaluation
 │   ├── train_roberta.py
 │   └── gpt_evaluation.py
 │
-├── paper/                      # 📄 Paper draft (optional)
+├── paper/                      #  Paper draft (optional)
 │   └── final_paper.pdf
 │
 ├── LICENSE
 └── README.md
 
 
-## 📊 Datasets
+##  Datasets
 
 All datasets were derived from structured security challenge and technique tables (Appendix A and B in the paper):
 
@@ -61,7 +61,7 @@ All datasets were derived from structured security challenge and technique table
 
 ---
 
-## 🤖 Models
+##  Models
 
 - **RoBERTa**: Used for multi-label classification of threats based on their impact on security attributes.
 - **GPT (via Prompting)**: Used to recommend best-fit mitigation techniques for each threat.  
@@ -69,24 +69,24 @@ All datasets were derived from structured security challenge and technique table
 
 ---
 
-## 📈 Results
+##  Results
 
 - **RoBERTa** achieved ~80% accuracy across major security attributes.
 - **GPT** matched ~88% of threat-to-technique mappings (exact or partial matches).
-- 📁 See `results/` folder for evaluation charts and comparison tables.
+-  See `results/` folder for evaluation charts and comparison tables.
 
 ---
 
-## 🧪 Reproducing the Experiments
+##  Reproducing the Experiments
 
-### 🔹 Train RoBERTa
+###  Train RoBERTa
 ```bash
 cd models/
 python train_roberta.py
 
 ---
 
-## 🧪 Run GPT Prompt Evaluation
+##  Run GPT Prompt Evaluation
 
 To generate GPT-style prompt templates for threat-to-technique mapping:
 
@@ -102,20 +102,12 @@ results/gpt_prompts.txt
 
 ---
 
-## 🛡 License
+##  License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License © 2025 Shirmohammad Tavangari**
 
-```yaml
-name: MIT License
-url: https://opensource.org/licenses/MIT
-permissions:
-  - commercial-use
-  - modification
-  - distribution
-  - private-use
-limitations:
-  - liability
+---
+
   - warranty
 conditions:
   - include-copyright

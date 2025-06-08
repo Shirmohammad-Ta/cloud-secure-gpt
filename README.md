@@ -44,7 +44,7 @@ cloud-secure-gpt/
 │   ├── train_roberta.py
 │   └── gpt_evaluation.py
 │
-├── paper/                      #  Paper draft (optional)
+├── paper/                      #  Paper 
 │   └── final_paper.pdf
 │
 ├── LICENSE

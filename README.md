@@ -107,8 +107,3 @@ results/gpt_prompts.txt
 This project is licensed under the **MIT License © 2025 Shirmohammad Tavangari**
 
 ---
-
-  - warranty
-conditions:
-  - include-copyright
-  - include-license

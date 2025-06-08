@@ -1,0 +1,6 @@
+input,output
+Threat: Phishing attack,Technique: Identity-Based Authentication (IBA)
+Threat: Denial of service,Technique: Self-Cleansing Intrusion Tolerance (C-SCIT)
+Threat: Password Guessing,Technique: Role-Based Access Control (RBAC)
+Threat: Injection attack,Technique: Dynamic intrusion detection system
+Threat: Replay attack,Technique: TLS Handshake

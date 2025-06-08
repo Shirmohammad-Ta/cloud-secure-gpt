@@ -1,0 +1,6 @@
+Technique,Access control,Efficiency,Performance,Privacy,Security
+Identity-Based Authentication (IBA),0,0,0,1,1
+RSA algorithm,0,1,0,0,1
+Dynamic intrusion detection system,0,0,1,0,0
+Multi-tenancy based access control model (MTACM),1,0,0,0,1
+TLS Handshake,0,0,0,0,1

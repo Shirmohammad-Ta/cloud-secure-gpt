@@ -1,0 +1,5 @@
+{"input": "Threat: Phishing attack", "output": "Technique: Identity-Based Authentication (IBA)"}
+{"input": "Threat: Denial of service", "output": "Technique: Self-Cleansing Intrusion Tolerance (C-SCIT)"}
+{"input": "Threat: Password Guessing", "output": "Technique: Role-Based Access Control (RBAC)"}
+{"input": "Threat: Injection attack", "output": "Technique: Dynamic intrusion detection system"}
+{"input": "Threat: Replay attack", "output": "Technique: TLS Handshake"}

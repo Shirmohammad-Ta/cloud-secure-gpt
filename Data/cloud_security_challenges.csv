@@ -1,0 +1,11 @@
+Challenge,Auditability,Availability,Confidentiality,Integrity
+WS-Security,0,0,1,1
+Phishing attack,0,0,1,0
+Wrapping attack,0,0,0,1
+Injection attack,0,1,0,0
+IP Spoofing,0,0,1,0
+Tampering,0,0,0,1
+Repudiation,1,0,0,0
+Information Disclosure,0,0,1,0
+Denial of service,0,1,0,0
+Elevation of privilege,0,0,1,0

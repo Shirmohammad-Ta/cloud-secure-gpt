@@ -6,7 +6,7 @@ A hybrid system using RoBERTa and GPT for analyzing cloud computing threats and 
 
 This repository accompanies the paper **"Enhancing Cloud Security using LLMs: A Hybrid Analysis of Challenges and AI-Powered Mitigation"**, which explores a novel approach to understanding and mitigating cloud security threats using traditional classification methods and large language models. 
 
-Author:Shirmohammad Tavavgari, University of British Columbia
+Author:Shirmohammad Tavavgari
 Affiliation: University of British Columbia
 
 ---

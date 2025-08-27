@@ -115,8 +115,8 @@ The repository includes scripts to generate:
 ## 📞 Contact
 - **Author:** Shirmohammad Tavangari  
 - **Email:** s.tavangari@alumni.ubc.ca  
-- **Institution:** University of British Columbia, Canada  
-- **Here is the link to the paper:**  - **Here is the link to the paper:** [A Machine Learning and Expert Knowledge Driven Framework for Intelligent Cloud Security (Academia.edu)](https://www.academia.edu/143573448/A_Machine_Learning_and_Expert_Knowledge_Driven_Framework_for_Intelligent_Cloud_Security_Leveraging_NLP_and_Adaptive_Threat_Technique_Analysis)
+- **Institution:** University of British Columbia, Canada
+- **Here is the link to the paper:** [A Machine Learning and Expert Knowledge Driven Framework for Intelligent Cloud Security (Academia.edu)](https://www.academia.edu/143573448/A_Machine_Learning_and_Expert_Knowledge_Driven_Framework_for_Intelligent_Cloud_Security_Leveraging_NLP_and_Adaptive_Threat_Technique_Analysis)
 
 
 ---
